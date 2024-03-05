@@ -2,7 +2,9 @@
 Customer Review Analysis For Leading woman clothing E-Commerce Company 
 
 here we use Scikit-Learn, NLTK, Spacy, Textblob and more
-**#steps**
+
+**#steps
+
     - EDA:
         - Checking missing values
         - average length of the text
